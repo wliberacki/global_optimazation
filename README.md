@@ -1,4 +1,4 @@
-#Project Summary
+# Project Summary
 ##This project compares three global optimization algorithms:
 
 TIAM: Uses interval arithmetic and multithreading for concurrent interval processing.
